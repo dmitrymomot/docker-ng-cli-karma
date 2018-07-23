@@ -1,7 +1,4 @@
-FROM trion/ng-cli:6.0.8
-
-
-MAINTAINER trion development GmbH "info@trion.de"
+FROM dmitrymomot/ng-cli:6.0.8
 
 USER root
 
